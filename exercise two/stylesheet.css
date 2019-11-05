@@ -1,0 +1,50 @@
+body {
+	display: block;
+ 	 margin-left: auto;
+ 	 margin-right: auto;
+	width: 75%;
+	background: lightblue;
+	color: black;
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+ }
+
+h1 {
+	overflow: auto;
+	display: block;
+ 	 margin-left: auto;
+ 	 margin-right: auto;
+	padding: 10px;
+	color: navy;
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; 
+	font-variant: small-caps;
+	font-stretch: ultra-expanded;
+	text-align: center;
+	outline-style: dotted;
+	 height: 45px;
+  	 width: 75%;
+ 	 background-color: powderblue;}
+
+h2 {color: navy;
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; }
+
+h3 {color: grey;
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; }
+
+p { 
+	display: block; 
+	margin-left: auto;
+ 	 margin-right: auto;
+	padding: 25px;
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-style: italic;
+	background-color: lavender;
+	line-height: 1.25;
+	width: 70%;
+	text-align: center;}
+
+img {
+	display: block; 
+	margin-left: auto;
+ 	 margin-right: auto;
+	padding: 25px;
+	width: 95%;}
