@@ -1,0 +1,83 @@
+<!doctype html>
+<head>
+	<title> Exercise Three </title>
+	<style>
+	body {
+			margin: 10;
+			padding: 10;
+	}
+
+	#top {
+	position:fixed;
+	left: 10px;
+	top: 10px;
+	}
+
+	#logo {
+		position: fixed;
+		left: 90px;
+		top: 10px;
+	}
+
+	#logotwo
+	{position: fixed;
+		right:10px;
+		top:10px
+		;}
+
+	#art
+	{position: relative;
+		left: 250px;
+		top: 300px;}	
+
+	#artone
+	{position: relative;
+		
+		left: 250px;
+		top: 325px;}
+
+	#arttwo
+	{position: absolute;
+		top: 75px;}
+
+	#artthree
+	{position: absolute;
+		top: 75px;}
+
+	#image
+	{position: relative;
+		top: -275px;
+		left: 450px;}				
+
+	.square {
+		width: 50px;
+		height: 50px;
+		background: blue;
+		;
+	}
+
+	.rectangle {
+		width: 250px;
+		height: 50px;
+		background: black;
+
+	}
+
+	.rectangleone {
+		width: 250px;
+		height: 50px;
+		background: black;
+
+	}
+
+	.rectangletwo
+	{
+		width: 125px;
+		height: 60px;
+		background: grey;
+	}
+
+	.image
+	{width: 500px;
+		height: 500px;
+		background: lightblue;}
