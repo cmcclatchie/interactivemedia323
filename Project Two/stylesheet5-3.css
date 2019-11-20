@@ -1,0 +1,48 @@
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+#stanza1
+{
+position: absolute;
+top: 7%;
+width: 15%;
+padding:5%;
+background: white;
+font-size: 250%;
+text-align: center;
+background: powderblue;
+height: 5%;
+}
+
+#stanza2
+{
+position: relative;
+top: 5%;
+left: 25%;
+width: 65%;
+height: 1%;
+padding:5%;
+overflow: scroll;
+font-size: 210%;
+}
+
+#stanza3
+{
+position: fixed;
+left: 25%;
+top: 35%;
+font-size: 250px;
+color: powderblue;
+}
+
+#stanza4
+{
+position: fixed;
+top: 35%;
+left: 27%;
+font-size: 240px;
+color: lightgrey;
+}

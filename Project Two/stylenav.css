@@ -1,0 +1,91 @@
+h1{
+position: fixed;
+color:slategrey;
+font-size:300px;
+font-style:bold;
+font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+#one-one
+{position: relative;
+text-align: center;
+top: 5%;
+font-style: italic;
+background: floralwhite;
+size: 18px;
+position: relative;
+width: 3%;
+padding:.5%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+#one-two
+{position: relative;
+text-align: center;
+top: 5%;
+left: 7%;
+font-style: italic;
+background: floralwhite;
+size: 18px;
+position: relative;
+width: 3%;
+padding:.5%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+#one-three
+{position: relative;
+text-align: center;
+top: -7.5%;
+left: 14%;
+font-style: italic;
+background: floralwhite;
+size: 18px;
+position: relative;
+width: 3%;
+padding:.5%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+#one-four
+{position: relative;
+text-align: center;
+top: -5%;
+left: 21%;
+font-color:white;
+background: floralwhite;
+size: 18px;
+position: relative;
+width: 3%;
+padding:.5%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+font-family: 'Gloria Hallelujah', cursive;
+}
+
+#one-five
+{position: relative;
+text-align: center;
+left: 28%;
+top: -15%;
+font-style: italic;
+background: floralwhite;
+size: 18px;
+position: relative;
+width: 3%;
+padding:.5%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+font-family: 'Gloria Hallelujah', cursive;
+}
+

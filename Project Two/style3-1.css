@@ -1,0 +1,21 @@
+
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+#stanzaone 
+{
+	position: relative;
+	vertical-align: center;
+	top: 5%;
+	left: 35%;
+	right: 35%;
+	width: 30%;
+	height: 82.5%;
+	padding: 2%;
+	border: double;
+
+}
+

@@ -1,0 +1,139 @@
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+#box
+{
+padding: 2.5%;
+height: 97.5%;
+width: 97.5%;
+}
+
+#stanzaone 
+{
+	position: relative;
+	width: 20%;
+	padding: .7%;
+}
+
+#stanzatwo 
+{
+	position: relative;
+	border: dotted;
+	left: 25%;
+	width: 20%;
+	padding: .7%;
+}
+
+#stanzathree 
+{
+	position: relative;
+	border: solid;
+	left: 50%;
+	width: 20%;
+	padding: .7%;
+}
+
+#stanzafour
+{
+	position: relative;
+	left: 75%;
+	width: 20%;
+	padding: .7%;
+
+}
+
+#stanzafive
+{
+	position: relative;
+	border: solid;
+	width: 20%;
+	padding: .7%;
+}
+
+#stanzasix 
+{
+	position: relative;
+	left: 25%;
+	width: 20%;
+	padding: .7%;
+
+}
+
+#stanzaseven
+{
+	position: relative;
+	border: dotted;
+	left: 50%;
+	width: 20%;
+	padding: .7%;
+
+}
+
+#stanzaeight
+{
+	position: relative;
+	left: 75%;
+	width: 20%;
+	padding: .7%;
+
+}
+
+#stanzanine
+{
+	position: relative;
+	border: solid;
+	width: 20%;
+	padding: .7%;
+}
+
+#stanzaten
+{
+	position: relative;
+	border: dotted;
+	left: 25%;
+	width: 20%;
+	padding: .7%;
+}
+
+#stanzaeleven
+{
+	position: relative;
+	left: 50%;
+	width: 20%;
+	padding: .7%;
+
+}
+
+#stanzatwelve
+{
+	position: relative;
+	border: solid;
+	left: 75%;
+	width: 20%;
+	padding: .7%;
+
+}
+
+#stanzathriteen
+{
+	position: relative;
+	border: solid;
+	left: 25%;
+	width: 20%;
+	padding: .7%;
+
+}
+
+#stanzafourteen
+{
+	position: relative;
+	border: dotted;
+	left: 50%;
+	width: 20%;
+	padding: .7%;
+
+}
+

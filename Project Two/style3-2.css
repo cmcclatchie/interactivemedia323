@@ -1,0 +1,178 @@
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+h1
+{
+	position: static;
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; 
+	font-variant: small-caps;
+	font-style: bold;
+	font-size: 75px;
+	text-align: center;
+}
+
+#box
+{
+padding: 2.5%;
+height: 97.5%;
+width: 97.5%;
+}
+
+#stanzaone 
+{
+	position: relative;
+	border: dotted;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+}
+
+#stanzatwo 
+{
+	position: relative;
+	border: dotted;
+	top: -23%;
+	left: 25%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+}
+
+#stanzathree 
+{
+	position: relative;
+	border: dotted;
+	top: -46%;
+	left: 50%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+}
+
+#stanzafour
+{
+	position: relative;
+	border: dotted;
+	top: -69%;
+	left: 75%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+}
+
+#stanzafive
+{
+	position: relative;
+	border: dotted;
+	width: 20%;
+	top: -63%;
+	padding: .7%;
+	height: 20%;
+}
+
+#stanzasix 
+{
+	position: relative;
+	border: dotted;
+	top: -86%;
+	left: 25%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+}
+
+#stanzaseven
+{
+	position: relative;
+	border: dotted;
+	top: -109%;
+	left: 50%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+
+}
+
+#stanzaeight
+{
+	position: relative;
+	border: dotted;
+	top: -132%;
+	left: 75%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+}
+
+#stanzanine
+{
+	position: relative;
+	border: dotted;
+	top: -126%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+}
+
+#stanzaten
+{
+	position: relative;
+	border: dotted;
+	top: -149%;
+	left: 25%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+}
+
+#stanzaeleven
+{
+	position: relative;
+	border: dotted;
+	top: -172%;
+	left: 50%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+
+}
+
+#stanzatwelve
+{
+	position: relative;
+	border: dotted;
+	top: -195%;
+	left: 75%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+
+}
+
+#stanzathriteen
+{
+	position: relative;
+	border: dotted;
+	top: -189%;
+	left: 25%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+
+}
+
+#stanzafourteen
+{
+	position: relative;
+	border: dotted;
+	top: -212%;
+	left: 50%;
+	width: 20%;
+	padding: .7%;
+	height: 20%;
+
+}
+

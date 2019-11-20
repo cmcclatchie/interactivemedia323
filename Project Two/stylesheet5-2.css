@@ -1,0 +1,109 @@
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+#stanza1
+{
+position: relative;
+width: 15%;
+top: 20%;
+left: 38%;
+padding:5%;
+background: white;
+font-size: 250%;
+text-align: center;
+}
+
+#stanza2
+{
+position: relative;
+top: 20%;
+left: 38%;
+width: 15%;
+padding:5%;
+background: floralwhite;
+}
+
+#stanza3
+{
+position: relative;
+top: 20%;
+left: 38%;
+width: 15%;
+padding:5%;
+background: gainsboro;
+}
+
+#stanza4
+{
+position: relative;
+top: 20%;
+left: 38%;
+width: 15%;
+padding:5%;
+background: lightgrey;
+}
+
+#stanza5
+{
+position: relative;
+top: 20%;
+left: 38%;
+width: 15%;
+padding:5%;
+background: grey;
+}
+
+#stanza6
+{
+position: relative;
+top: 20%;
+left: 38%;
+width: 15%;
+padding:5%;
+background: slategrey;
+}
+
+#stanza7
+{
+position: relative;
+top: 20%;
+left: 38%;
+width: 15%;
+padding:5%;
+background: grey;
+}
+
+#stanza8
+{
+position: relative;
+top: 20%;
+left: 38%;
+width: 15%;
+padding:5%;
+background: lightgrey;
+}
+
+#stanza9
+{
+position: relative;
+top: 20%;
+left: 38%;
+width: 15%;
+padding:5%;
+background: gainsboro;
+}
+
+#stanza10
+{
+position: relative;
+top: 20%;
+left: 38%;
+width: 15%;
+padding:5%;
+background: floralwhite;
+font-size: 250%;
+text-align: center;
+}

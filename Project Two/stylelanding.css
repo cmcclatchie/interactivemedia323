@@ -1,0 +1,102 @@
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+h1{
+position: absolute;
+left: 15%;
+top: -15%;
+color:slategrey;
+font-size:250px;
+font-style:bold;
+font-family: font-family: 'Calistoga', cursive;
+}
+
+#reqs
+{position: fixed;
+top: 35%;
+left: 15%;
+color: lightslategrey;
+size: 18px;
+width: 25%;
+padding:2%;
+font-family: font-family: 'Calistoga', cursive;}
+
+#reqs1
+{position: fixed;
+left: 15%;
+color: lightslategrey;
+top: 55%;
+size: 18px;
+width: 25%;
+padding:2%;
+font-family: font-family: 'Calistoga', cursive;
+}
+
+#stanza2
+
+{position: relative;
+text-align: center;
+font-style: italic;
+color: navy;
+size: 18px;
+width: 5%;
+padding:2%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #FFFFFF;}
+
+#poem
+{position: relative;
+text-align: center;
+font-style: italic;
+color: navy;
+size: 18px;
+width: 5%;
+padding:2%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #FFFFFF;
+}
+
+
+#stanza3
+{
+text-align: center;
+position: relative;
+font-style: italic;
+color: navy;
+size: 18px;
+width: 5%;
+padding:2%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #FFFFFF;}
+
+
+#stanza4
+{position: relative;
+text-align: center;
+font-style: italic;
+color: navy;
+size: 18px;
+width: 5%;
+padding:2%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #FFFFFF;}
+
+
+#stanza5
+{position: relative;
+text-align: center;
+font-style: italic;
+color: navy;
+size: 18px;
+width: 5%;
+padding:2%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #FFFFFF;}

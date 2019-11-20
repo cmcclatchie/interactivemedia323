@@ -1,0 +1,189 @@
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+#stanzaone
+{
+top: 10%;
+position: relative;
+left: 90%;
+font-style: bold;
+width:25%;
+font-size: 18px;
+font-family: 'Tomorrow', sans-serif;
+}
+
+#stanzatwo
+
+{
+top: 10%;
+position: relative;
+left: 85%;
+font-style: bold;
+width:25%;
+font-size: 20px;
+font-family: 'Bebas Neue', cursive;
+
+}
+
+#stanzathree
+
+{
+top: 10%;
+position: relative;
+left: 80%;
+font-style: bold;
+width:25%;
+font-size: 22px;
+font-family: 'Pacifico', cursive;
+
+}
+
+#stanzafour
+
+{
+top: 10%;
+position: relative;
+left: 75%;
+font-style: bold;
+width:25%;
+font-size: 24px;
+font-family: 'Source Serif Pro', serif;
+
+}
+
+#stanzafive
+
+{
+top: 10%;
+position: relative;
+left: 70%;
+font-style: bold;
+width:25%;
+font-size: 26px;
+font-family: 'Alata', sans-serif;
+}
+
+#stanzasix
+
+{
+top: 10%;
+position: relative;
+left: 65%;
+font-style: bold;
+width:25%;
+font-size: 28px;
+font-family: 'Shadows Into Light', cursive;
+
+}
+
+#stanzaseven
+
+{
+top: 10%;
+position: relative;
+left: 60%;
+font-style: bold;
+width:25%;
+font-size: 30px;
+font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+#stanzaeight
+
+{
+top: 10%;
+position: relative;
+left: 55%;
+font-style: bold;
+width:25%;
+font-size: 32px;
+font-family: 'Tangerine', cursive;
+}
+
+#stanzanine
+
+{
+top: 10%;
+position: relative;
+left: 50%;
+font-style: bold;
+width:25%;
+font-size: 30px;
+font-family: 'Allura', cursive;
+}
+
+#stanzaten
+
+{
+top: 10%;
+position: relative;
+left: 45%;
+font-style: bold;
+width:25%;
+font-size: 28px;
+font-family: 'Indie Flower', cursive;
+}
+
+#stanzaeleven
+
+{
+top: 10%;
+position: relative;
+left: 40%;
+font-style: bold;
+width:25%;
+font-size: 26px;
+font-family: 'Sacramento', cursive;
+}
+
+#stanzatwelve
+
+{
+top: 10%;
+position: relative;
+left: 35%;
+font-style: bold;
+width:25%;
+font-size: 24px;
+}
+
+#stanzathirteen
+
+{
+top: 10%;
+position: relative;
+left: 30%;
+font-style: bold;
+width: 25%;
+font-size: 22px;
+font-family: 'Damion', cursive;
+}
+
+#stanzafourteen
+
+{
+top: 10%;
+position: relative;
+left: 25%;
+font-style: bold;
+width:25%;
+font-size: 20px;
+font-family: 'Covered By Your Grace', cursive;
+}
+
+#stanzafifteen
+
+{
+top: 10%;
+position: relative;
+left: 20%;
+font-style: bold;
+width:25%;
+font-size: 18px;
+font-family: 'Mansalva', cursive;
+
+}

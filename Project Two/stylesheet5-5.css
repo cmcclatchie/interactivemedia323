@@ -1,0 +1,29 @@
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+#stanza1
+{
+font-family: 'Homemade Apple', cursive;
+position: relative;
+top: 15%;
+width: 10%;
+padding:5%;
+background: white;
+font-size: 150px;
+color:slategrey;
+text-align: center;
+}
+
+#stanza2
+{
+font-family: 'Homemade Apple', cursive;
+position: relative;
+left: 45%;
+top: -10%;
+width:35%;
+padding:5%;
+color:slategrey;
+}

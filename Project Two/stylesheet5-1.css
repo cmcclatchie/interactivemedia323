@@ -1,0 +1,152 @@
+
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+h1{
+color:blue;
+font-size:72px;
+font-style:bold;
+}
+
+#stanza2
+{
+position: relative;
+left: 15%;
+width: 15%;
+padding:5%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #E1F2EC;
+}
+body{
+background: #FFFFFF
+font-size:16px;
+font-style: normal;
+}
+
+#poem
+{position: relative;
+left: 5%;
+font-style: italic;
+color: navy;
+size: 18px;
+position: relative;
+width: 15%;
+padding:2%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #FFFFFF;}
+
+h1{
+color:grey;
+font-size:48px;
+font-style:bold;
+}
+
+
+#stanza3
+{
+position: relative;
+left: 5%;
+width: 15%;
+padding:2%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #FFFFFF;
+border: dotted;
+}
+body{
+background: #FFFFFF
+font-size:16px;
+font-style: normal;
+}
+
+#stanza4
+{
+position: relative;
+top: -55%;
+left: 50%;
+width: 15%;
+padding:2%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #grey;
+border: double;
+}
+body{
+background: #FFFFFF
+font-size:16px;
+font-style: normal;
+}
+
+
+#stanza5
+{
+position: relative;
+left: 35%;
+top: -95%;
+width: 15%;
+padding:1%;
+border: dashed;
+border-color: navy;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #E1F2EC;
+color: grey;
+}
+body{
+background: #FFFFFF
+font-size:16px;
+font-style: normal;
+}
+
+#stanza6
+{
+position: relative;
+left: 38%;
+top: -63%;
+font-style: italic;
+color: navy;
+size: 18px;
+width: 15%;
+padding:2%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #FFFFFF;}
+
+
+#stanza7
+{
+position: relative;
+left: 60%;
+top: -55%;
+width: 15%;
+padding:5%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #E1F2EC;
+}
+
+#stanza8
+{
+position: relative;
+left: 75%;
+top: -90%;
+width: 15%;
+padding:2%;
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62); 
+box-shadow: 12px 17px 24px 0px rgba(137,137,137,0.62);
+background: #FFFFFF;
+border: dotted;
+}
+
+#stanza9
+{position: relative;
+left: 40%;
+top: -75%;
+color: navy;
+font-size: 100px;
+}

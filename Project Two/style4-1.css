@@ -1,0 +1,26 @@
+
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+h1
+{
+font-family: 'Condiment', cursive;
+font-size: 65px;
+}
+
+#stanzaone 
+{
+	position: relative;
+	vertical-align: center;
+	top: 5%;
+	left: 40%;
+	right: 40%;
+	width: 20%;
+	height: 82.5%;
+	padding: 2%;
+	font-family: 'Delius Unicase', cursive;
+}
+

@@ -1,0 +1,70 @@
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+#stanzaone
+{
+top: 10%;
+position: relative;
+left: 20%;
+font-style: italic;
+font-size: 48px;
+width:65%;
+background: white;
+border:double;
+border-color: black;
+font-family: 'Reenie Beanie', cursive;
+padding: 5%;
+}
+
+#stanzafour
+
+{
+top: -35%;
+position: relative;
+left: 42.5%;
+font-style: bold;
+width:35%;
+font-family: 'Indie Flower', cursive;
+font-size: 24px;
+border:dashed;
+padding: 3%;
+}
+
+#stanzatwo
+
+{
+top: 15%;
+position: relative;
+left: 60%;
+font-style: bold;
+width:25%;
+font-family: 'Homemade Apple', cursive;
+border-style: solid;
+padding: 1.5%;
+background: #000000;
+color: white;
+}
+
+#stanzathree
+
+{
+top: -40%;
+position: relative;
+left: 5%;
+font-style: bold;
+width:45%;
+font-family: 'Satisfy', cursive;
+padding: 5%;
+color: black
+line-height:48px;
+}
+
+strong 
+{font-style: bold;
+font-size: 28px;
+border:dotted;
+padding: .5%;
+}

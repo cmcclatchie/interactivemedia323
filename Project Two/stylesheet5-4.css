@@ -1,0 +1,28 @@
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+#stanza1
+{
+font-family: 'Lilita One', cursive;
+position: relative;
+top: 15%;
+width: 100%;
+padding:5%;
+background: white;
+font-size: 350%;
+color:slategrey;
+}
+
+#stanza2
+{
+font-family: 'Reenie Beanie', cursive;
+position: relative;
+top: 10%;
+height: 3%;
+width:400%;
+padding:3%;
+background: floralwhite;
+}

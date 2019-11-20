@@ -1,0 +1,58 @@
+p {
+position: absolute;
+left: 52.5%;
+right: 52.5%;
+width:5%;}
+
+h1
+{
+	border:dotted;
+	padding: 1%;
+	left: -15%;
+}
+
+#stanzaone
+{
+top: 10%;
+position: relative;
+left: 10%;
+font-style: bold;
+width:10%;
+border:dotted;
+padding: 5%;
+}
+
+#stanzatwo
+
+{
+position: relative;
+left: 25%;
+font-style: bold;
+width:10%;
+border:dotted;
+padding: 5%;
+}
+
+#stanzathree
+
+{
+top: -10%;
+position: relative;
+left: 40%;
+font-style: bold;
+width:10%;
+border:dotted;
+padding: 5%;
+}
+
+#stanzafour
+
+{
+top: -17%;
+position: relative;
+left: 25%;
+font-style: bold;
+width:10%;
+border:dotted;
+padding: 5%;
+}
