@@ -1,0 +1,344 @@
+
+a {color: grey;
+text-decoration: none;}
+a:link {color: grey;
+text-decoration: none;}
+a:visted {color: grey;
+text-decoration: none;}
+a:hover {color:slategrey;
+text-decoration: none;}
+a:active {color: grey;
+text-decoration: none;}
+
+#one 
+{
+position: relative;
+object-position: bottom;
+left: 75%;
+font-size: 24px;
+color: grey;
+top: 80%;
+font-family: 'Open Sans Condensed', sans-serif; 
+}
+
+#one2
+{
+position: relative;
+object-position: bottom;
+left: 70%;
+font-size: 24px;
+color: grey;
+top: 80%;
+font-family: 'Open Sans Condensed', sans-serif; 
+}
+
+#two
+{
+position: relative;
+object-position: bottom;
+left: 75%;
+font-size: 24px;
+color: grey;
+top: 80%;
+font-family: 'Open Sans Condensed', sans-serif; 
+}
+
+#three
+{
+position: relative;
+object-position: bottom;
+left: 5%;
+font-size: 72px;
+color: slategrey;
+top: 15%;
+font-family:'Open Sans Condensed', sans-serif; 
+}
+
+#foura
+{
+position: relative;
+object-position: bottom;
+left: 5%;
+font-size: 72px;
+color: darkslategrey;
+top: 2%;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#foura2
+{
+position: relative;
+object-position: bottom;
+left: 5%;
+font-size: 72px;
+color: lightgrey;
+top: 2%;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#fourb
+{
+position: relative;
+object-position: bottom;
+left: 2%;
+font-size: 72px;
+color: darkslategrey;
+top: 2%;
+font-family: 'Libre Baskerville', serif;
+}
+
+#fourb1
+{
+position: relative;
+object-position: bottom;
+left: 15%;
+font-size: 372px;
+color: lightblue;
+top: 2%;
+font-family: 'Libre Baskerville', serif;
+}
+
+#fiveb
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	position: relative;
+	left: 52.5%;
+	top: 60%;
+	font-size: 35px;
+	width:25%;
+	padding: 1%;
+	background-color: black;
+	color: white;
+
+}
+
+#fivea2
+{
+position: relative;
+object-position: bottom;
+left: 5%;
+font-size: 72px;
+color: lightgrey;
+top: 2%;
+font-family: 'Libre Baskerville', serif;
+}
+
+#fivea
+{
+position: relative;
+object-position: bottom;
+left: 5%;
+font-size: 72px;
+color: darkslategrey;
+top: 2%;
+font-family: 'Libre Baskerville', serif;
+}
+
+
+#eightd
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	position: relative;
+	top: 50%;
+	font-size: 70px;
+	width:65%;
+	padding: 1%;
+	color: darkslategrey;
+
+}
+
+#twelve
+{
+position: relative;
+object-position: bottom;
+left: 45%;
+font-size: 24px;
+color: grey;
+top: 80%;
+font-family: 'Libre Baskerville', serif;
+}
+
+#sixc
+{
+position: relative;
+width:65%;
+left: 17.5%;
+font-size: 108px;
+color: darkslategrey;
+top: 40%;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#sevenc
+
+{
+position: relative;
+width:95%;
+left: 2.5%;
+font-size: 68px;
+color: darkslategrey;
+top: 40%;
+font-family: 'Libre Baskerville', serif;
+}
+
+#eightb
+{
+position: relative;
+width:65%;
+left: 17.5%;
+font-size: 78px;
+color: darkslategrey;
+top: 40%;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+#ninea
+{
+position: relative;
+width:95%;
+left: 2.5%;
+font-size: 368px;
+color: darkslategrey;
+top: 20%;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+#ninea2
+{
+position: relative;
+width:95%;
+left: 2.5%;
+font-size: 68px;
+color: darkslategrey;
+top: 20%;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+
+#tend1
+
+{
+position: relative;
+width:95%;
+left: 2.5%;
+font-size: 178px;
+color: darkslategrey;
+top: 40%;
+font-family: 'Libre Baskerville', serif;
+}
+
+#tend
+
+{
+position: relative;
+width:45%;
+left: 52.5%;
+font-size: 28px;
+color: darkslategrey;
+top: 40%;
+font-family: 'Libre Baskerville', serif;
+}
+
+
+#elevenc
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	position: relative;
+	left: 22.5%;
+	top: 25%;
+	font-size: 40px;
+	width:35%;
+	padding: 5%;
+	background-color: black;
+	color: white;
+
+}
+
+#twelvec
+{
+	font-family: 'Libre Baskerville', serif;
+	position: relative;
+	top: 2%;
+	font-size: 40px;
+	padding: 5%;
+	color: black;
+
+}
+
+#twelvec1
+{
+	font-family: 'Libre Baskerville', serif;
+	position: relative;
+	top: 2%;
+	font-size: 40px;
+	padding: 5%;
+	color: white;
+
+}
+
+#fourteenc
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	position: relative;
+	left: 20%;
+	top: 10%;
+	font-size: 45px;
+	width:40%;
+	padding: 10%;
+	background-color: black;
+	color: white;}
+
+#elevenb
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	position: relative;
+	left: 15%;
+	top: 10%;
+	font-size: 35px;
+	width:40%;
+	padding: 15%;
+	background-color: black;
+	color: white;}
+
+
+#sevenb
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	position: relative;
+	left: 2%;
+	top: 2%;
+	font-size: 24px;
+	width:25%;
+	padding: 1%;
+	background-color: black;
+	color: white;
+
+}
+
+#eightc
+{
+	font-family: 'Source Sans Pro', sans-serif;
+	position: relative;
+	left: 70%;
+	top: 65%;
+	font-size: 24px;
+	width:17%;
+	padding: 5%;
+	background-color: black;
+	color: white;
+
+}
+
+#nineb
+{
+	font-family: 'Open Sans Condensed', sans-serif;
+	position: relative;
+	top: 2%;
+	font-size: 40px;
+	padding: 5%;
+	color: white;
+
+}
